@@ -1,0 +1,26 @@
+{
+  "name": "Full Stack TypeScript",
+  "version": "1.0.0",
+  "description": "Usage of TypeScript on the client and server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "cd app/ && npm install",
+    "install": "cd server/ && npm install",
+    "client": "cd app/ && npm start",
+    "server": "cd server/ && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1337programming/full-stack-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1337programming/full-stack-typescript/issues"
+  },
+  "engines": {
+    "node": ">= 4.3.2 < 6"
+  },
+  "homepage": "https://github.com/1337programming/full-stack-typescript#readme"
+}

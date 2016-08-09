@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "dependencies": {},
+  "globalDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160619023215",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "rx": "registry:dt/rx#0.0.0+20160317120654",
+    "ws": "registry:dt/ws#0.0.0+20160724122153"
+  }
+}
